@@ -1,6 +1,12 @@
-# app07_loja_cafe
+<h1 align="center">
+:computer: **CAFÉ STORE**
+</h1>
 
-A new Flutter project.
+APP simpled para aplicação de aprendizado de integração com FIREBASE, utilizando Authentication e Cloud Firestore.
+
+<h2 align="center">
+<img alt="layout" src= "https://github.com/angelresende/cafestore/blob/main/layout.JPG" width="600px">
+</h2>
 
 ## Getting Started
 
