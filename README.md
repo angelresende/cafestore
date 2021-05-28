@@ -2,7 +2,7 @@
 :computer: **CAFÉ STORE**
 </h1>
 
-APP simpled para aplicação de aprendizado de integração com FIREBASE, utilizando Authentication e Cloud Firestore.
+APP simples para aplicação de aprendizado de integração com FIREBASE, utilizando Authentication e Cloud Firestore.
 
 <h2 align="center">
 <img alt="layout" src= "https://github.com/angelresende/cafestore/blob/main/layout.JPG" width="600px">
